@@ -1,6 +1,7 @@
 ## Algorithm-Challenges-for-String
 
 >> Input : "2 + 5 = x"
+>> </br>
 >> Output : "7"
 
 ```ruby
