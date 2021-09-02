@@ -1,6 +1,7 @@
 ## Algorithm-Challenges-for-String
 
 >> Input : "2 + 5 = x"
+>> </br>
 >> And Output must be less than 10
 >> </br>
 >> Output : "7"
